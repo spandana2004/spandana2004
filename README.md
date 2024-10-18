@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Spandana! 👋
 
-<!--
-**spandana2004/spandana2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+I'm a Computer Science and Engineering student passionate about **AI/ML**, **Deep Learning**, and **Software Development**. I enjoy working on real-world problems and contributing to open-source projects.
 
-Here are some ideas to get you started:
+### 🚀 My Skills
+- **Programming Languages**: Python, Java, C
+- **Frameworks/Tools**: TensorFlow, PyTorch, Streamlit, Android Studio, XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with Me:
+- [![LinkedIn](www.linkedin.com/in/spandana-a-p-23451924b)
+- [![Holopin Badges](https://holopin.me/spandana2004)](https://holopin.io/@spandana2004)
+- [![GitHub](https://img.shields.io/badge/GitHub-Spandana2004-lightgrey)](https://github.com/spandana2004)
+  
+### 📊 GitHub Stats
+![Spandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=spandana2004&show_icons=true&theme=radical)
+
