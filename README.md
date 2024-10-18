@@ -8,7 +8,7 @@ I'm a Computer Science and Engineering student passionate about **AI/ML**, **Dee
 - **Frameworks/Tools**: TensorFlow, PyTorch, Streamlit, Android Studio, XAMPP
 
 ### 🔗 Connect with Me:
-- [![LinkedIn](www.linkedin.com/in/spandana-a-p-23451924b)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Spandana-blue)](https://www.linkedin.com/in/spandana-a-p-23451924b)
 - [![Holopin Badges](https://holopin.me/spandana2004)](https://holopin.io/@spandana2004)
 - [![GitHub](https://img.shields.io/badge/GitHub-Spandana2004-lightgrey)](https://github.com/spandana2004)
   
